@@ -1,8 +1,11 @@
 # Support-Vector-Machine
+
 Problem Statement:
 	Analyze the prior marketing campaigns of a Bank using SVM and predict if the user will buy the Bank’s term deposit or not
+	
 Problem Description:
 	Initially preprocess and clean the data. Visualize the data for better understanding. Then build SVM model using linear kernel and Radial basis kernel. Tune and compare both the models for the best result.
+	
 Code:
 	Visualizing the dependent variable ‘y’ using countplot. 
 #EDA
