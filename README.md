@@ -1,6 +1,6 @@
 # Support-Vector-Machine
 
-Problem Statement:
+Problem Statement: 
 	Analyze the prior marketing campaigns of a Bank using SVM and predict if the user will buy the Bank’s term deposit or not
 	
 Problem Description:
